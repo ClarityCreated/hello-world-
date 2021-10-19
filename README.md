@@ -1,1 +1,1 @@
-# hello-world-
+# hello-world- My name is Daniel and I am new to coding. I expect to learn new things about coding and become an advanced developer. I enjoy practicing electric guitar in my free time. I plan on one day developing my own video game. Asian food is my favorite type of food, Pad Thai is the way to my heart. I look forward to seeing where my coding skills takes me. 
